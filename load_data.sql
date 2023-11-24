@@ -1,0 +1,1 @@
+COPY Students FROM './data/students.csv' DELIMITER ',' CSV HEADER;
