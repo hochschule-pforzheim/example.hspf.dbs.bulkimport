@@ -19,7 +19,7 @@ As always, there are multiple options to import data as bulk.
 4. Use a tool to convert csv into `INSERT` statements (e.g., [tableconvert](https://tableconvert.com/) can do that)
 6. Use any programming language (e.g., Java or Python) and write a short program snippet to do it for you.
 
-## File descirptions
+## File descriptions
 
 |File|Description|
 |---|---|
