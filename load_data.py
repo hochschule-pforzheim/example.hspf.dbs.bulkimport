@@ -35,6 +35,6 @@ for table, file_name in tables_and_files.items():
 
     # Load data into PostgreSQL table
     # Replace the table if it already exists
-    df.to_sql(table, engine, schema='public', index=False, if_exists='replace')
+    df.to_sql(table, engine, schema='public', index=False, if_exists='append')
 
 print("Data successfully loaded into PostgreSQL database.")
