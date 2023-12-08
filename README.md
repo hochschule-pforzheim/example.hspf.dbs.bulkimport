@@ -1,5 +1,5 @@
 # Bulk Data Import
-This is a small demo to illustrate how to load data in bulk into a PostgreSQL database.
+This is a small demo to illustrate how to load data in bulk into a PostgreSQL database. It was inspired by a live demo to import data that at first led to this [Gist](https://gist.github.com/thomas-schuster/2ce01acff919c206a1c500c34b2d4587).
 
 Steps to reproduce are:
 
